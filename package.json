@@ -1,0 +1,28 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "Simple website uses BEM approach. Minimize assets using gulp.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syraharguilles/front-end.git"
+  },
+  "keywords": [
+    "BEM",
+    "GULP"
+  ],
+  "author": "Syrah Mae Arguilles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syraharguilles/front-end/issues"
+  },
+  "homepage": "https://github.com/syraharguilles/front-end#readme",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^3.2.0"
+  }
+}
